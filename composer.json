@@ -2,7 +2,7 @@
   "name": "krugozor-old/database",
   "description": "Database — библиотека PHP классов для простой, удобной, быстрой и безопасной работы с базой данных MySql, использующая расширение PHP mysqli и имитацию подготовленных запросов. Database — is a PHP class library for easy, convenient, fast and safe work with the MySql database, using the PHP mysqli extension and simulating prepared statements.",
   "type": "library",
-  "homepage": "https://github.com/Vasiliy-Makogon/Database",
+  "homepage": "https://github.com/Leonid74/Database",
   "keywords": [
     "mysql",
     "mysqli",
@@ -15,7 +15,7 @@
     "mysql database php class"
   ],
   "require": {
-    "php": ">=5.3.0"
+    "php": "=7.4"
   },
   "authors": [
     {
